@@ -26,3 +26,5 @@ PM me with your search parameters if you have any problems!
 -/u/samslate
 
 
+reddit thread here:
+http://www.reddit.com/r/undelete/comments/2360fk/reddit_censorship_checker_available/
