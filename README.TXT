@@ -9,6 +9,21 @@
 	-you can enter “/r/subredditName”, but you don't need to, it just deletes the "/r/"
 
 >Enter your search term (like congress or tesla motors)
+	-Special Searches Sported:
+subreddit:subreddit
+ find submissions in "subreddit"
+author:username
+ find submissions by "username"
+site:example.com
+ find submissions from "example.com"
+url:text
+ search for "text" in url
+selftext:text
+ search for "text" in self post contents
+self:yes (or self:no)
+ include (or exclude) self posts
+nsfw:yes (or nsfw:no)
+ include (or exclude) results marked as NSFW
 
 >select a time frame (3, 4, or 5)
 	-do you want 1 weeks’ worth of data, or one year's worth? 
